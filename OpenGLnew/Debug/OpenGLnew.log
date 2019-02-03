@@ -1,0 +1,19 @@
+﻿  wall.cpp
+  源.cpp
+c:\users\yueyu\onedrive\大二第一学期\计算图形学\作业\大作业\openglnew\openglnew\源.cpp(115): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\yueyu\onedrive\大二第一学期\计算图形学\作业\大作业\openglnew\openglnew\源.cpp(210): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\yueyu\onedrive\大二第一学期\计算图形学\作业\大作业\openglnew\openglnew\源.cpp(211): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\yueyu\onedrive\大二第一学期\计算图形学\作业\大作业\openglnew\openglnew\源.cpp(322): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+c:\users\yueyu\onedrive\大二第一学期\计算图形学\作业\大作业\openglnew\openglnew\源.cpp(339): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\yueyu\onedrive\大二第一学期\计算图形学\作业\大作业\openglnew\openglnew\源.cpp(343): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\yueyu\onedrive\大二第一学期\计算图形学\作业\大作业\openglnew\openglnew\源.cpp(390): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\yueyu\onedrive\大二第一学期\计算图形学\作业\大作业\openglnew\openglnew\源.cpp(582): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\yueyu\onedrive\大二第一学期\计算图形学\作业\大作业\openglnew\openglnew\源.cpp(602): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\yueyu\onedrive\大二第一学期\计算图形学\作业\大作业\openglnew\openglnew\源.cpp(603): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\yueyu\onedrive\大二第一学期\计算图形学\作业\大作业\openglnew\openglnew\源.cpp(607): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\yueyu\onedrive\大二第一学期\计算图形学\作业\大作业\openglnew\openglnew\源.cpp(608): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\yueyu\onedrive\大二第一学期\计算图形学\作业\大作业\openglnew\openglnew\源.cpp(610): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\yueyu\onedrive\大二第一学期\计算图形学\作业\大作业\openglnew\openglnew\源.cpp(611): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\yueyu\onedrive\大二第一学期\计算图形学\作业\大作业\openglnew\openglnew\源.cpp(620): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  OpenGLnew.vcxproj -> C:\Users\yueyu\OneDrive\大二第一学期\计算图形学\作业\大作业\OpenGLnew\Debug\OpenGLnew.exe
