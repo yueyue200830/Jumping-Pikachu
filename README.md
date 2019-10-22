@@ -1,8 +1,11 @@
 # Jumping Pikachu
 This project is based on OpenGL 3.3, Assimp 4.1.0, Visual Studio 2017.
 
+# Screenshot
 
-How to play
+<img src="https://github.com/yueyue200830/Jumping-Pikachu/blob/master/Screenshot.PNG"/>
+
+# How to play
 -------------
 
 Click Space to control the jump length.
@@ -10,7 +13,7 @@ Jumping length is based on the time you click space button.
 If you don't jump on the platform, it will restart.
 
 
-> **Control**
+## Control
 
 > - WSAD - Control camera
 > - Ese - exit
@@ -18,7 +21,7 @@ If you don't jump on the platform, it will restart.
 > - Mouse wheel zooms - control screen
 > - Space - jump (length is based on the time you press)
 
-Objects
+# Objects
 -------------
 
 - Pikachu
